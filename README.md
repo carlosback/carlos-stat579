@@ -7,4 +7,4 @@ Everything Stat579
 
 * For the last past months I've been coding hundreds of partisan Facebook pages/posts for my thesis. 
 
-* I use iCloud, Evernote and Calendar to organize my work. 
+* I use iCloud, Evernote and Calendar to organize my work/tasks. 
